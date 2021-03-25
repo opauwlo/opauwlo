@@ -19,7 +19,7 @@
 blz? meu nome é Paulo Victor mais conhecido como pauwlo. 20 anos e terceiro semestre de CIC (ciência da computação), no momento querendo ser um cientista de dados mas semana passada era frontend e mês passado queria ser só músico. toco um violão e escrevo umas coisas pro meu blog.
 
 <p align="center">
-  <img src="https://i.gifer.com/kkY.gif" width="400">
+  <img src="SOS.gif" width="400">
 </p>
 
 * 🖥️ Tecnologias: HTML | CSS | JavaScript | C | Python = "apredendo"
