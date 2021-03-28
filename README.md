@@ -1,5 +1,5 @@
 <p align = "center">
- <img width = "220px" src = "https://www.imagemhost.com.br/images/2021/03/25/homem-negro-sentado-em-um-banco-com-um-laptop-e-cafe-o-conceito-de-trabalho-remoto-freelance-e-learning-em-um-estilo-simples_254685-115-removebg.png" align = "center" alt = "Homem negro no parque com notebook" />
+ <img width = "240px" src = "https://www.imagemhost.com.br/images/2021/03/25/homem-negro-sentado-em-um-banco-com-um-laptop-e-cafe-o-conceito-de-trabalho-remoto-freelance-e-learning-em-um-estilo-simples_254685-115-removebg.png" align = "center" alt = "Homem negro no parque com notebook" />
  <h1 align = "center">Pauwlo Victor</h1>
  <p align = "center">
   <a href = "mailto:lo.opvcfreitas@gmail.com">
@@ -8,11 +8,13 @@
   <a href = "https://www.linkedin.com/in/paulo-victor-costa-freitas/">
     <img src = "linkedin.svg" alt = "linkedin" style = "vertical-align:top; margin:6px 4px">
   </a>
-  <a href = "https://twitter.com/opauwlo">
+  <a href = "https://twitter.com/pauwlo">
     <img src = "twitter.svg" alt = "twitter" style = "vertical-align:top; margin:6px 4px">
   </a>
 </p>
 </p>
+
+---
 
 ## Opa, chefe
 
@@ -27,8 +29,10 @@ blz? meu nome é Paulo Victor mais conhecido como pauwlo. 20 anos e terceiro sem
 * ⚙ Atualmente dedicado a universidade e ao aprendizado do python;
 
 
-📫 Você pode falar comigo pelo [Twitter](https://twitter.com/opauwlo) e pode conhecer também o meu [site](https://pauwlo.vercel.app) onde tu pode ler umas coisas legais, o site foi feito por mim e está aqui nos repositórios.
+📫 Você pode falar comigo pelo [Twitter](https://twitter.com/pauwlo) e pode conhecer também o meu [site](https://pauwlo.vercel.app) onde tu pode ler umas coisas legais, o site foi feito por mim e está aqui nos repositórios.
 
 ):)
 
-## quer me contratar não?
+---
+
+# quer me contratar não?
