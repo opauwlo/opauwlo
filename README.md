@@ -1,7 +1,9 @@
 <p align = "center">
  <img width = "240px" src = "https://www.imagemhost.com.br/images/2021/03/25/homem-negro-sentado-em-um-banco-com-um-laptop-e-cafe-o-conceito-de-trabalho-remoto-freelance-e-learning-em-um-estilo-simples_254685-115-removebg.png" align = "center" alt = "Homem negro no parque com notebook" />
  <h1 align = "center">Pauwlo Victor</h1>
- <p align = "center">
+
+
+<p align = "center">
   <a href = "mailto:lo.opvcfreitas@gmail.com">
     <img src = "gmail.svg" alt = "gmail" style = "vertical-align:top; margin:6px 4px">
   </a> 
@@ -36,3 +38,4 @@ blz? meu nome é Paulo Victor mais conhecido como pauwlo. 20 anos e terceiro sem
 ---
 
 # quer me contratar não?
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opauwlo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
