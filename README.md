@@ -20,7 +20,7 @@
 
 ## Opa, chefe
 
-<h4 align=left>blz? meu nome é Paulo Victor mais conhecido como pauwlo. 20 anos e terceiro semestre de CIC (ciência da computação), no momento querendo ser um cientista de dados mas semana passada era frontend e mês passado queria ser só músico. toco um violão e escrevo umas coisas pro meu blog.</h4>
+<h5 align=left>blz? meu nome é Paulo Victor mais conhecido como pauwlo. 20 anos e terceiro semestre de CIC (ciência da computação), no momento querendo ser um cientista de dados mas semana passada era frontend e mês passado queria ser só músico. toco um violão e escrevo umas coisas pro meu blog.</h5>
 
 <h2 align = "center">
   <img src = "https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" width = "400">
@@ -29,6 +29,8 @@
 * 🖥️ Tecnologias: HTML | CSS | JavaScript | C | Python = "apredendo"
 
 * ⚙ Atualmente dedicado a universidade e ao aprendizado do python;
+
+---
 
 📫 Você pode falar comigo pelo [Twitter](https://twitter.com/pauwlo) e pode conhecer também o meu [site](https://pauwlo.vercel.app) onde tu pode ler umas coisas legais, o site foi feito por mim e está aqui nos repositórios.
 
