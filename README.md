@@ -18,27 +18,27 @@
 
 ---
 
-## Opa, chefe
+## Hi, friend
 
-<h5 align=left>blz? meu nome é Paulo Victor mais conhecido como pauwlo. 20 anos e terceiro semestre de CIC (ciência da computação), no momento querendo ser um cientista de dados mas semana passada era frontend e mês passado queria ser só músico. toco um violão e escrevo umas coisas pro meu blog.</h5>
+<h5 align=left>nice? my name is Paulo Victor better known as pauwlo. 20 years and third semester of CS (Computer Science), at the moment wanting to be a data scientist but last week I was frontend and last month I wanted to be just a musician. I play a guitar and write some stuff for my blog.</h5>
 
 <h2 align = "center">
   <img src = "https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" width = "400">
 </h2>
 
-* 🖥️ Tecnologias: HTML | CSS | JavaScript | C | Python = "apredendo"
+* 🖥️ Technologies: HTML | CSS | JavaScript | C | Python = "learning"
 
-* ⚙ Atualmente dedicado a universidade e ao aprendizado do python;
+* ⚙ Currently dedicated to university and python learning;
 
 ---
 
-📫 Você pode falar comigo pelo [Twitter](https://twitter.com/pauwlo) e pode conhecer também o meu [site](https://pauwlo.vercel.app) onde tu pode ler umas coisas legais, o site foi feito por mim e está aqui nos repositórios.
+📫 you can talk to me through [Twitter](https://twitter.com/pauwlo) and you can also meet mine [site](https://pauwlo.vercel.app) where you can read some cool stuff, the site was made by me and it's here in the repositories.
 
 <p align=right> ):) </p>
 
 ---
 
-### quer me contratar não?
+### do you want to hire me?
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opauwlo)](https://github.com/anuraghazra/github-readme-stats)
 ---
