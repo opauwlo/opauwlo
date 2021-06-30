@@ -1,6 +1,6 @@
 <h1 align = "center">
  <img width = "240px" src = "https://www.imagemhost.com.br/images/2021/03/25/homem-negro-sentado-em-um-banco-com-um-laptop-e-cafe-o-conceito-de-trabalho-remoto-freelance-e-learning-em-um-estilo-simples_254685-115-removebg.png" align = "center" alt = "Homem negro no parque com notebook" />
- <h1 align = "center">Pauwlo Victor</h1>
+ <h1 align = "center">pauwlo victor</h1>
 
 
 <h1 align = "center">
@@ -18,7 +18,7 @@
 
 ---
 
-## Hi, friend
+## Hi, world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <h5 align=left>nice? my name is Paulo Victor better known as pauwlo. 20 years and third semester of CS (Computer Science), at the moment wanting to be a data scientist but last week I was frontend and last month I wanted to be just a musician. I play a guitar and write some stuff for my blog.</h5>
 
