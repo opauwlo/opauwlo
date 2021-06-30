@@ -2,7 +2,6 @@
  <img width = "240px" src = "https://www.imagemhost.com.br/images/2021/03/25/homem-negro-sentado-em-um-banco-com-um-laptop-e-cafe-o-conceito-de-trabalho-remoto-freelance-e-learning-em-um-estilo-simples_254685-115-removebg.png" align = "center" alt = "Homem negro no parque com notebook" />
  <h1 align = "center">pauwlo victor</h1>
 
-
 <h1 align = "center">
   <a href = "mailto:lo.opvcfreitas@gmail.com">
     <img src = "gmail.svg" alt = "gmail" style = "vertical-align:top; margin:6px 4px">
