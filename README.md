@@ -1,7 +1,5 @@
-<h1 align = "center">
- <img width = "240px" src = "https://www.imagemhost.com.br/images/2021/03/25/homem-negro-sentado-em-um-banco-com-um-laptop-e-cafe-o-conceito-de-trabalho-remoto-freelance-e-learning-em-um-estilo-simples_254685-115-removebg.png" align = "center" alt = "Homem negro no parque com notebook" />
- <h1 align = "center">pauwlo victor</h1>
-
+<div align = "center">
+ <h1 align = "center">opauwlo</h1>
 <h1 align = "center">
   <a href = "mailto:lo.opvcfreitas@gmail.com">
     <img src = "gmail.svg" alt = "gmail" style = "vertical-align:top; margin:6px 4px">
@@ -13,7 +11,7 @@
     <img src = "twitter.svg" alt = "twitter" style = "vertical-align:top; margin:6px 4px">
   </a>
 </h1>
-</h1>
+</div>
 
 
 ## Hi, world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -34,9 +32,7 @@
 
 <p align=right> ):) </p>
 
----
 
 ### do you want to hire me?
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opauwlo)](https://github.com/anuraghazra/github-readme-stats)
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opauwlo&layout=compact)](https://github.com/opauwlo/github-readme-stats)
