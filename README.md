@@ -29,7 +29,4 @@
  </a>
 
  <p align=right></p>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opauwlo)](https://github.com/opauwlo/github-readme-stats)
-
 </div>
