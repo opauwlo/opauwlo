@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm opauwlo 👋</h1>
 
 <p align="center">
-  <strong>Backend Developer</strong> with strong expertise in <code>PHP</code> and <code>Go</code>.<br>
+  <strong>Backend Developer</strong> with strong expertise in <code>PHP</code> and <code>Node js</code>.<br>
   Currently working as a <strong>Senior Drupal Developer</strong> at <strong>CI&T</strong>.
 </p>
 
